@@ -1,0 +1,5 @@
+﻿  LinearProbing.c
+C:\Users\40727\Desktop\Faculta\An 3\SEM 2\SDD\Structuri\Recapitulare\Recapitulare_Structuri\LinearProbing.c(39,41): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\40727\Desktop\Faculta\An 3\SEM 2\SDD\Structuri\Recapitulare\Recapitulare_Structuri\LinearProbing.c(111,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\40727\Desktop\Faculta\An 3\SEM 2\SDD\Structuri\Recapitulare\Recapitulare_Structuri\LinearProbing.c(34): warning C4716: 'functieDispersie2': must return a value
+  Recapitulare_Structuri.vcxproj -> C:\Users\40727\Desktop\Faculta\An 3\SEM 2\SDD\Structuri\Recapitulare\Recapitulare_Structuri\Debug\Recapitulare_Structuri.exe
